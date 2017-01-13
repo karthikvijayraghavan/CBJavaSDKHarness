@@ -1,6 +1,0 @@
-com/couchbase/example/CBJavaSDKHarness/repository/Repository.class
-com/couchbase/example/CBJavaSDKHarness/exception/RepositoryException.class
-com/couchbase/example/CBJavaSDKHarness/repository/GenericRepository.class
-com/couchbase/example/CBJavaSDKHarness/repository/RepositoryHelper.class
-com/couchbase/example/CBJavaSDKHarness/CouchbaseConfig.class
-com/couchbase/example/CBJavaSDKHarness/Example.class
